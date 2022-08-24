@@ -18,7 +18,7 @@ Lang | LvL
 🇺🇸 English | I can speak and read it without problems, but I have not certified it
 🇫🇷 French | 🤔 Je comprends quelque chose, j'ai suivi des cours à l'institut, mais ne me demande pas d'en parler 😄
 🇩🇪 German | 🤔 Entschuldigung, ich erinnere mich nur an Wörter und Sätze, Kannst du mir ein Glas Orangensaft geben? 😄   
-
+🇮🇹 Italian| Saluti amici! Conosco molto poco l'italiano, ma non lo parlo fluentemente, ma mi piace molto 😄 
 
 <!--
 **CarlosOrellana00/CarlosOrellana00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
